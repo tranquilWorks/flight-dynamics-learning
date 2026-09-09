@@ -35,6 +35,7 @@ This repository is the **Flight Dynamics and Aerospace GNC** interactive MATLAB 
 <!-- BEGIN PORTFOLIO-CONTROL MANAGED -->
 ## Governed agentic delivery
 
+- Read `.agents/skills/engineering-execution/SKILL.md` for nontrivial work: complete the requested outcome, verify its entry point, and preserve context.
 - Product: `flight-dynamics-learning`; delivery profile: `product-data`.
 - Control revision: `6c547df370a3cf6c0a24796dd2661e279b6acf0a`; harness version: `2`.
 - Read `contracts/profile-requirements.yaml` and the approved
